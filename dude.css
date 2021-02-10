@@ -1,0 +1,35 @@
+#main{
+border:1px solid black;
+width:1460px;
+height:500px;
+background-color:coral;
+}
+#one
+{
+border:1px solid black;
+width:360px;
+height:500px;
+float:left;
+background-color:coral;
+}
+#two{
+border:1px solid black;
+width:360px;
+height:500px;
+float:left;
+background-color:coral;
+}
+#three{
+border:1px solid black;
+width:360px;
+height:500px;
+float:left;
+background-color:coral;
+}
+#four{
+border:1px solid black;
+width:360px;
+height:500px;
+background-color:coral;
+float:left;
+}
